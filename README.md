@@ -4,9 +4,6 @@ A REST API for a Kenyan online bookstore, built with **Express**. Books are
 stocked with prices in **KES** across six categories relevant to Kenyan
 readers: Fiction, Non-Fiction, Technology, Business, Self-Help, and Academic.
 
-**Live API:** `<ADD_YOUR_RAILWAY_URL_HERE>`
-**Frontend:** `<ADD_YOUR_VERCEL_URL_HERE>`
-
 ## Tech stack
 
 - Node.js + Express 5
